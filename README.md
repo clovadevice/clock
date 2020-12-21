@@ -9,7 +9,7 @@
 
 2. Download the kernel
    ```
-   git clone https://github.com/clovadevice/clockplus.git
+   git clone https://github.com/clovadevice/clock.git
    ```
 
 3. Build
